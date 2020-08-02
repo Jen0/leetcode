@@ -152,3 +152,5 @@ var getHint = function (secret, guess) {
 function convertNumbers (str) {
   return str.split('').map(o => Number(o));
 }
+
+
